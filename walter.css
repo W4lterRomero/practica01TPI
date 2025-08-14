@@ -1,0 +1,10 @@
+
+.perfilWalter {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(116, 168, 128);
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    padding: 0.2rem;
+}
