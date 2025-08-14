@@ -2,7 +2,11 @@
 Seccion de Cristian
 */
 
-
+*{
+    box-sizing: border-box;
+    padding: 0;
+    border: 0;
+}
 
 /*
 Seccion de David

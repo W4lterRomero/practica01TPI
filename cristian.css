@@ -1,0 +1,23 @@
+
+
+.perfilCristian{
+    background-color: rgb(194, 31, 31);
+    height: auto;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.nombre__texto{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.7rem;
+}
+
+.img__perfil{
+    height: 200px;
+}
